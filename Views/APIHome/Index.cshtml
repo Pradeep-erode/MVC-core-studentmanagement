@@ -1,0 +1,38 @@
+﻿@using Studentmanagement.Core
+@using Studentmanagement.Entities
+
+@model Studentmanagement.Core.Mystudent_class.Mymodelcs
+@{
+    Layout = null;
+    ViewBag.Title = "Index";
+    <link href="~/css/site.css" rel="stylesheet" />
+}
+
+
+<html>
+<body>
+    <div id="formContent">
+        @using (Html.BeginForm("Index", "APIHome", FormMethod.Post, new { id = "dive" }))
+        {
+            <h1>Login to Enter</h1>
+            @Html.TextBoxFor(model => model.Username, new { @class = "place", placeholder = "   Enter username" })<br><br>
+            @Html.PasswordFor(model => model.Password, new { @class = "place", placeholder = "   Passcode" })<br><br>
+            <span>
+                <button type="submit">Login</button>
+                <button type="button" value="" onclick='window.location = "@Url.Action("Create", "Home")";'>signup</button>
+            </span>
+            @* @Html.ActionLink("signup","Create","Home",new { @class="butt"})*@
+
+        }
+
+        @*<button type="submit" onclick="Home/Create/">signup</button>*@
+    </div>
+</body>
+</html>
+
+
+@if (@ViewBag.flag == 2)
+{
+    //Response.Write("<script> alert('Bad credentials') </script>");
+}
+
