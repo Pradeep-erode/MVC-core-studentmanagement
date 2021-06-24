@@ -19,9 +19,9 @@ namespace Studentmanagement.Service
             _Repository = testRepository;
         }
 
-        public List<Mymodelcs> Dashboard(Mymodelcs detail)
+        public List<Mymodelcs> Dashboard()
         {
-            var listof = _Repository.Dashboard(detail);
+            var listof = _Repository.Dashboard();
             return listof;
         }
 

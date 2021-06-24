@@ -1,0 +1,17 @@
+D:\MVC samples\Studentmanagement.Service\bin\Debug\net5.0\Studentmanagement.Service.deps.json
+D:\MVC samples\Studentmanagement.Service\bin\Debug\net5.0\Studentmanagement.Service.dll
+D:\MVC samples\Studentmanagement.Service\bin\Debug\net5.0\ref\Studentmanagement.Service.dll
+D:\MVC samples\Studentmanagement.Service\bin\Debug\net5.0\Studentmanagement.Service.pdb
+D:\MVC samples\Studentmanagement.Service\bin\Debug\net5.0\Studentmanagement.Core.dll
+D:\MVC samples\Studentmanagement.Service\bin\Debug\net5.0\Studentmanagement.Entities.dll
+D:\MVC samples\Studentmanagement.Service\bin\Debug\net5.0\Studentmanagement.Core.pdb
+D:\MVC samples\Studentmanagement.Service\bin\Debug\net5.0\Studentmanagement.Entities.pdb
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\Studentmanagement.Service.csprojAssemblyReference.cache
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\Studentmanagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\Studentmanagement.Service.AssemblyInfoInputs.cache
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\Studentmanagement.Service.AssemblyInfo.cs
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\Studentmanagement.Service.csproj.CoreCompileInputs.cache
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\Studentmanagement.Service.csproj.CopyComplete
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\Studentmanagement.Service.dll
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\ref\Studentmanagement.Service.dll
+D:\MVC samples\Studentmanagement.Service\obj\Debug\net5.0\Studentmanagement.Service.pdb

@@ -69,12 +69,12 @@ namespace Studentmanagement.Resource.Repository
         //if you need the ability to make permanent changes of any kind to your collection (add & remove),
         //you'll need List<>.
         //If you just need to read, sort and/or filter your collection, IEnumerable<> is sufficient for that purpose.
-        public List<Mymodelcs> Dashboard(Mymodelcs detail)
+        public List<Mymodelcs> Dashboard()
         {
                 List<Mymodelcs> lists = new List<Mymodelcs>();
                 using (StudentContext entity = new StudentContext())
                 {
-                    var checking = entity.Studentmark.Where(y => y.Username == detail.Username && y.Password == detail.Password || y.IsDeleted == false).ToList();
+                    var checking = entity.Studentmark.Where( y=>y.IsDeleted == false).ToList();
                     foreach (var datalist in checking)
                     {
                         Mymodelcs listobj = new Mymodelcs();
@@ -115,7 +115,7 @@ namespace Studentmanagement.Resource.Repository
         }
         public Mymodelcs Editing(int studentid)
         {
-            
+            //int studentida = Convert.ToInt32(studentid);
             using (StudentContext edit = new StudentContext())
             {  
                 var editbase = edit.Studentmark.Where(a => a.StudentId == studentid).SingleOrDefault();

@@ -11,7 +11,7 @@ namespace Studentmanagement.Core.IRepository
     {
         public Mymodelcs Create(Mymodelcs student);
 
-        public List<Mymodelcs> Dashboard(Mymodelcs detail);
+        public List<Mymodelcs> Dashboard();
 
         public int Check(Mymodelcs student);
 

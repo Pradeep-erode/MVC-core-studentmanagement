@@ -1,0 +1,15 @@
+D:\MVC samples\Studentmanagement.Core\bin\Debug\net5.0\Studentmanagement.Core.deps.json
+D:\MVC samples\Studentmanagement.Core\bin\Debug\net5.0\Studentmanagement.Core.dll
+D:\MVC samples\Studentmanagement.Core\bin\Debug\net5.0\ref\Studentmanagement.Core.dll
+D:\MVC samples\Studentmanagement.Core\bin\Debug\net5.0\Studentmanagement.Core.pdb
+D:\MVC samples\Studentmanagement.Core\bin\Debug\net5.0\Studentmanagement.Entities.dll
+D:\MVC samples\Studentmanagement.Core\bin\Debug\net5.0\Studentmanagement.Entities.pdb
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\Studentmanagement.Core.csprojAssemblyReference.cache
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\Studentmanagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\Studentmanagement.Core.AssemblyInfoInputs.cache
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\Studentmanagement.Core.AssemblyInfo.cs
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\Studentmanagement.Core.csproj.CoreCompileInputs.cache
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\Studentmanagement.Core.csproj.CopyComplete
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\Studentmanagement.Core.dll
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\ref\Studentmanagement.Core.dll
+D:\MVC samples\Studentmanagement.Core\obj\Debug\net5.0\Studentmanagement.Core.pdb

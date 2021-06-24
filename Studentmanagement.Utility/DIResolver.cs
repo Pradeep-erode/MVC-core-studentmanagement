@@ -12,7 +12,7 @@ namespace Studentmanagement.Utility
     {
         public static void ConfigureServices(IServiceCollection services)
         {
-
+            //for database accessing process below line should used
             services.AddTransient<IHttpContextAccessor, HttpContextAccessor>();
             #region Context accesor
             // this is for accessing the http context by interface in view level
